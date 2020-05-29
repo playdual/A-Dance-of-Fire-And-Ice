@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MoveBall
+  - MoveBall2
+  - Map
+  - PlayerMoveObj
+  - Ready
+  - Go
+  - GameOver
+  - EndGame
+  - Fire2
+  - Fire1
+  - CountText
+  - GameScore
+  - Light
+  - 3
+  - 2
+  - 1
+  - Persent
+  - ENDPORTAL
+  - DOTED
+  - Change
+  - SpeedLow
+  - SpeedHigh
+  - WhiteBG
+  - SpeedLow2
+  - CameraSlow
+  - CameraFast
+  - BG
+  - Rocket
+  - ENDPORTAL1
+  - ENDPORTAL2
+  - RedBG
+  - Yellow_tile
+  - LobyStarter
+  - isMain
+  - LogoLight
+  - Portal1
+  - Portal2
+  - Portal
+  - StartText
+  - Setting
+  - SettingBG
+  - Continu
+  - set
+  - exit
+  - isSetting
+  - Canvas
+  - isSetting1
+  - isSetting2
+  - isSetting3
+  - Volume
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Change
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 2041662455
+    locked: 0
+  - name: 1
+    uniqueID: 2295165915
+    locked: 0
+  - name: 2
+    uniqueID: 3071001865
+    locked: 0
+  - name: 3
+    uniqueID: 206242453
+    locked: 0
+  - name: 4
+    uniqueID: 137527701
+    locked: 0
+  - name: 5
+    uniqueID: 2043719789
+    locked: 0
+  - name: 6
+    uniqueID: 3105215599
+    locked: 0
